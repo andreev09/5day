@@ -9,6 +9,6 @@ var hacked = false; //тип - boolean = false
 var iknow = null; //тип ничего
 
 var code = {
-  "javascript": true,
+  "javascript": true, // тип - объект, содержит 2 переменные
   "ruby": false,
 };
