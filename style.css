@@ -1,0 +1,9 @@
+.container {
+  width: 400px;
+  background-color: green;
+  padding: 5px;
+}
+.header {
+  max-width: 100%;
+  background-color: grey;
+}
